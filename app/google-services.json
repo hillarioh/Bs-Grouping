@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "69989520485",
+    "firebase_url": "https://biblestudy-8b166.firebaseio.com",
+    "project_id": "biblestudy-8b166",
+    "storage_bucket": "biblestudy-8b166.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69989520485:android:d42394fed29d86a3",
+        "android_client_info": {
+          "package_name": "com.example.lecrae.biblestudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69989520485-vb9s6bspl1cr2bequt52saesce1ktfpe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lecrae.biblestudy",
+            "certificate_hash": "a1935a053c10857f9d3049006617b37c062ccf22"
+          }
+        },
+        {
+          "client_id": "69989520485-fs4vk04dsdr0ggeblalbuhmqeag548u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkBgpZq_A2ooyyyNbPv0tTV7zb61hiRsM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69989520485-fs4vk04dsdr0ggeblalbuhmqeag548u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
